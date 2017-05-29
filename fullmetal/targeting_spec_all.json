@@ -1,0 +1,192 @@
+{  
+   "geo_locations":{
+   
+    "cities":[  
+         {
+           "distance_unit":"kilometer",
+           "key":"1046967",
+           "name":"Vijayavada",
+           "region":"Andhra Pradesh",
+           "region_id":"1724",
+           "radius":40,
+           "country":"IN"
+         }
+      ],  
+      "location_types":[  
+         "home",
+         "recent"
+      ],
+      "countries":[  
+         "IN"
+      ]
+   },
+   "genders":[  
+      1
+   ],
+   "age_min":18,
+   "age_max":65,
+   "page_types":[  
+      "desktopfeed",
+      "mobilefeed",
+      "rightcolumn",
+      "mobileexternal"
+   ],
+   "flexible_spec":[  
+      {  
+         "interests":[  
+             
+ 
+
+            {
+              "id": "6003402319418",
+              "name": "Wedding dress"
+            },
+            {
+              "id":"6003456388203",
+              "name":"Clothing"
+            },
+            {
+              "id":"6011366104268",
+              "name":"Women's clothing"
+            },
+            {
+              "id": "6004018489389",
+              "name": "Wedding Design"
+            },
+            {
+              "id": "6013436088549",
+              "name": "Designer Sarees, Salwar Kameez & Lehenga Choli"
+            },
+            {
+              "id": "6013647331179",
+              "name": "Dezigner Saree's"
+            },
+            {
+              "id": "6012669518933",
+              "name": "Lehenga, Wedding & Bridal Saree, Designer Lehengas, Sherwani by Homeindia"
+            },
+            {
+              "id": "6013870430556",
+              "name": "Indian Wedding Saree"
+            },
+            {
+              "id": "6012029916312",
+              "name": "SareeGalaxy"
+            },
+            {
+              "id": "6011910930081",
+              "name": "Sareez India"
+            },
+            {
+              "id": "6015044821116",
+              "name": "Gabriel & Co. Engagement Rings, Wedding Bands and Fine Jewelry"
+            },
+            {
+              "id": "6003266225248",
+              "name": "Jewelry"
+            },
+            {
+              "id": "6002867416222",
+              "name": "Ethnic groups"
+            },
+            {
+              "id": "1588807381353849",
+              "name": "traditional weddings edo"
+            },
+            {
+              "id": "6003349071605",
+              "name": "Wedding photography"
+            },
+            {
+              "id": "6003494619027",
+              "name": "Wedding ring"
+            },
+            {
+              "id": "6014218194382",
+              "name": "D.Diamonds"
+            },
+            {
+              "id": "6003491581986",
+              "name": "diamond rings"
+            },
+            {
+              "id":"6003167425934",
+              "name":"Shopping and fashion"
+            },
+            {
+              "id":"6003346592981",
+              "name":"Online shopping"
+            },
+            {
+              "id":"6003348604581",
+              "name":"Fashion accessories"
+            },
+            {
+              "id":"6003188355978",
+              "name":"Dresses"
+            },
+            {
+              "id":"6003103108917",
+              "name":"Boutiques"
+            },
+            {
+              "id":"6007828099136",
+              "name":"Luxury goods"
+            },
+            {
+              "id":"6003266266843",
+              "name":"Fashion design"
+            },
+            {
+              "id":"6003467756257",
+              "name":"Style & Fashion"
+            },
+            {
+              "id":"6011994253127",
+              "name":"Men's clothing"
+            },
+            {
+              "id":"6003009798850",
+              "name":"Fashion World"
+            },
+            {
+              "id":"6003445357386",
+              "name":"Girl's Fashion"
+            },
+            {
+              "id":"6003047612016",
+              "name":"Teens Fashion"
+            },
+            {
+              "id":"6003212484647",
+              "name":"Fashion Is My Life"
+            },
+            {
+              "id":"6003392552125",
+              "name":"Luxury Lifestyle"
+            },
+            {
+              "id":"6002991798459",
+              "name":"Luxury Life"
+            },
+            {
+              "id":"6003132627317",
+              "name":"Luxury"
+            },
+            {
+              "id":"1575225759426473",
+              "name":"Fashion Girls"
+            },
+            {
+              "id":"6003113029468",
+              "name":"World Of Fashion"
+            },
+            {
+              "id":"6003387936805",
+              "name":"Luxury Store"
+            }
+           
+         ]
+      }
+   ]
+}

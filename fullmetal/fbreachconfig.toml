@@ -1,0 +1,3 @@
+url = "https://graph.facebook.com/v2.7/act_114509928988630/reachestimate?"
+access_token = "EAARmjCZCBQjQBAHsOZAxrZBEAXsXbfxg0HlZBBZBjVTeJswy5u0QIFAW4jDSHtHsys5ZC9zfRvxaLtG7RVhmXtVUf9XZCb1J4LgKHJZCqRGjH6rTTcHtVGcK5ZBAtF6nvOrF3jOl448ct9SgHZCmDmUGRZCZCsVc0RAhJrRDkeHbNZAzKxgZDZD"
+other_paramerters = "routing_control=avoid_c2&_reqName=adaccount/reachestimate&_reqSrc=AdsReachEstimateDataLoader&currency=INR&include_headers=false&locale=en_GB&method=get&optimize_for=LINK_CLICKS&pretty=0&suppress_http_code=1"

@@ -1,0 +1,6 @@
+title = "TOML Example"
+
+[database]
+db_server = "*******"
+user = "*****"
+password = "******"
